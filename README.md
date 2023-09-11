@@ -1,6 +1,11 @@
 # README
 
-该项目为论文：《Spectrum Sharing in Vehicular Networks&#x20;Based on Multi-Agent Reinforcement Learning》的代码复现。
+该项目为论文：《Spectrum Sharing in Vehicular Networks&#x20;
+Based on Multi-Agent Reinforcement Learning
+》的代码复现。
+
+基于Python 3.6 + PyTorch 1.8.1+cu102，低于该版本不保证可正常运行。
+
 
 ## 基本说明：
 
